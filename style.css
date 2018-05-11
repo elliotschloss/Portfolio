@@ -6,6 +6,13 @@ header {
 
 header h1 {
   color: white;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: blue;
+  box-shadow: white;
+  color: white;
+
 }
 
 header img {
